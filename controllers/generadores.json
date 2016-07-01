@@ -1,0 +1,24 @@
+{
+	"generadores":[
+		{
+			"puerto":"8005",
+			"ip":"127.0.0.1",
+			"tipoComida":"yuca"
+		},
+		{
+			"puerto":"8004",
+			"ip":"127.0.0.1",
+			"tipoComida":"LagartoSinHueso"
+		},
+		{
+			"puerto":"8006",
+			"ip":"127.0.0.1",
+			"tipoComida":"cambur"
+		},
+		{
+			"puerto":"8007",
+			"ip":"127.0.0.1",
+			"tipoComida":"pepino"
+		}
+	]
+}
